@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b0e29b8-4c47-466a-b3e6-c08a146947d0" name="New changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String/StringUsage.java" afterDir="false" />
+    <list default="true" id="6b0e29b8-4c47-466a-b3e6-c08a146947d0" name="New changelist" comment="add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello/hello.java" afterDir="false" />
     </list>
     <list id="5c168bd0-472d-4145-a788-5e5aaebfb8f7" name="Changes" comment="Sprint_1" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/User/Documents/IDEA/String",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
   <component name="RunManager">
@@ -79,13 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670285991489</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add">
+      <created>1670432530371</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670432530371</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sprint 1" />
     <MESSAGE value="Sprint_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint_1" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
